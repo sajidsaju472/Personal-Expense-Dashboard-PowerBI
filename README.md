@@ -20,3 +20,4 @@ Excel
 
 📷 Dashboard Preview
 ![dashboard](https://github.com/user-attachments/assets/91042b93-6b78-4f3a-9ade-724cec9e7f23)
+![Dashboard Preview](dashboard.png)
