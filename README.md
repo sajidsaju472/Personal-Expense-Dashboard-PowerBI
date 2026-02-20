@@ -1,23 +1,67 @@
-📊 Project Overview
+# 📊 Personal Expense Dashboard – Power BI
 
-This project is an interactive Power BI dashboard built to analyze personal expenses.
+## 🔍 Project Overview
+The Personal Expense Dashboard is an interactive Power BI project designed to analyze and visualize personal spending patterns.  
 
-🔹 Features
+The dashboard provides insights into total expenses, category-wise spending distribution, payment method usage, and time-based filtering for better financial decision-making.
 
-Total Expense calculation
+---
 
-Category-wise expense analysis
+## 🎯 Objectives
+- Track overall expenses
+- Identify highest spending categories
+- Analyze payment mode distribution
+- Enable date-wise filtering for dynamic analysis
 
-Payment mode distribution
+---
 
-Date range filtering using slicer
+## 🛠 Tools & Technologies Used
+- Power BI Desktop
+- Microsoft Excel
+- Data Visualization Techniques
+- Basic DAX (Aggregation functions)
 
-🛠 Tools Used
+---
 
-Power BI
+## 📌 Key Features
+✔ Total Expense KPI Card  
+✔ Category-wise Expense Analysis (Bar Chart)  
+✔ Payment Mode Distribution (Pie Chart)  
+✔ Interactive Date Slicer  
+✔ Clean and Professional Dashboard Theme  
 
-Excel
+---
 
-📷 Dashboard Preview
-![dashboard](https://github.com/user-attachments/assets/91042b93-6b78-4f3a-9ade-724cec9e7f23)
+## 📊 Dashboard Preview
+
 ![Dashboard Preview](dashboard.png)
+
+---
+
+## 📈 Insights Generated
+- Identified major spending categories
+- Compared payment mode preferences (Cash / Card / UPI)
+- Analyzed expense trends across selected date ranges
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file.
+2. Open it in Power BI Desktop.
+3. Use the Date Slicer to filter data dynamically.
+4. Interact with charts to explore spending insights.
+
+---
+
+## 📬 Future Improvements
+- Add monthly trend line chart
+- Add savings analysis
+- Add budget vs actual comparison
+- Deploy dashboard to Power BI Service
+
+---
+
+## 👨‍💻 Author
+**Shajid Beig**  
+B.Tech – Electronics & Communication Engineering  
+Aspiring Data Analyst | Power BI Enthusiast
